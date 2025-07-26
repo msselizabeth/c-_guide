@@ -1,0 +1,35 @@
+# Compiled object files
+*.o
+*.obj
+*.elf
+
+# Libraries
+*.so
+*.dylib
+*.a
+*.lib
+*.dll
+
+# Executables
+*.exe
+*.out
+a.out
+
+# Debug symbols
+*.dSYM/
+*.pdb
+
+# Build folders
+build/
+Debug/
+Release/
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Temp files
+*~
+*.swp
+*.tmp
